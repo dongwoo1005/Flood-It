@@ -1,7 +1,7 @@
 # Flood-It
 
-![floodit4](https://dongwoo1005.github.io/floodit.JPG)
-![floodit10](https://dongwoo1005.github.io/floodit10.JPG)
-![floodit20](https://dongwoo1005.github.io/floodit20.JPG)
+![floodit4] (http://dongwoo1005.github.io./images/floodit.JPG)
+![floodit10](http://dongwoo1005.github.io./images/floodit10.JPG)
+![floodit20](http://dongwoo1005.github.io./images/floodit20.JPG)
 
  
