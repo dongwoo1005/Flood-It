@@ -8,9 +8,9 @@ Requirements:
 - Mac: install XQuartz on a newer Mac OS.
 
 ###Compiling:
-g++ main.cc -lX11
+- g++ main.cc -lX11
 or if above doesn’t work on Mac, you need to explicitly tell g++ where X11 is located:
-g++ main.cc -lX11 -L/usr/X11/lib -I/usr/X11/include
+- g++ main.cc -lX11 -L/usr/X11/lib -I/usr/X11/include
 
 Available Commands:
 --------------------
@@ -23,7 +23,7 @@ Available Commands:
 
 Command line option:
 ---------------------
-•	-graphics produces a graphical display for the game
+- *-graphics* produces a graphical display for the game
 
 Sample interaction: 
 ---------------------
