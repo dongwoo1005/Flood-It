@@ -49,8 +49,8 @@ Sample interaction:
 	game 4
 	<em>4 moves left</em>
 	switch 0
-	<em>0032</em>
-	<em>0103</em>
+	<em>0032
+	0103</em>
 	<em>4021</em>
 	<em>0203</em>
 	<em>3 moves left</em>
