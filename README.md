@@ -29,7 +29,7 @@ Sample interaction:
 ---------------------
 (responses from the program are in italics)
 
-
+	
     new 4
 	init
 	0 0 4
@@ -48,9 +48,9 @@ Sample interaction:
 	4021
 	0203
 	game 4
-	<em>4 moves left</em>
+	<pre><em>4 moves left</em></pre>
 	switch 0
-	*0032*
+	0032
 	0103
 	4021
 	0203
@@ -74,3 +74,4 @@ Sample interaction:
 	2203
 	0 moves left
 	Lost*
+	</pre>
