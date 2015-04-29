@@ -50,27 +50,27 @@ Sample interaction:
 	<em>4 moves left</em>
 	switch 0
 	<em>0032
-	0103</em>
-	<em>4021</em>
-	<em>0203</em>
-	<em>3 moves left</em>
+	0103
+	4021
+	0203
+	3 moves left</em>
 	switch 4
-	<em>4432</em>
-	<em>4103</em>
-	<em>4021</em>
-	<em>0203</em>
-	<em>2 moves left</em>
+	<em>4432
+	4103
+	4021
+	0203
+	2 moves left</em>
 	switch 0
-	<em>0032</em>
-	<em>0103</em>
-	<em>0021</em>
-	<em>0203</em>
-	<em>1 move left</em>
+	<em>0032
+	0103
+	0021
+	0203
+	1 move left</em>
 	switch 2
-	<em>2232</em>
-	<em>2103</em>
-	<em>2221</em>
-	<em>2203</em>
+	<em>2232
+	2103
+	2221
+	2203
 	0 moves left
-	<em>Lost</em>
+	Lost</em>
 </pre>
