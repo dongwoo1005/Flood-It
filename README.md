@@ -29,49 +29,48 @@ Sample interaction:
 ---------------------
 (responses from the program are in italics)
 
-```
-new 4
-init
-0 0 4
-0 2 3
-0 3 2
-1 1 1
-1 3 3
-2 0 4
-2 2 2
-2 3 1
-3 1 2
-3 3 3
--1 -1
-4032
-0103
-4021
-0203
-game 4
-*4 moves left*
-switch 0
-*0032
-0103
-4021
-0203
-3 moves left*
-switch 4
-*4432
-4103
-4021
-0203
-2 moves left*
-switch 0
-*0032
-0103
-0021
-0203
-1 move left*
-switch 2
-*2232
-2103
-2221
-2203
-0 moves left
-Lost*
-```
+
+    new 4
+	init
+	0 0 4
+	0 2 3
+	0 3 2
+	1 1 1
+	1 3 3
+	2 0 4
+	2 2 2
+	2 3 1
+	3 1 2
+	3 3 3
+	-1 -1
+	4032
+	0103
+	4021
+	0203
+	game 4
+	<em>4 moves left</em>
+	switch 0
+	*0032*
+	0103
+	4021
+	0203
+	3 moves left*
+	switch 4
+	*4432
+	4103
+	4021
+	0203
+	2 moves left*
+	switch 0
+	*0032
+	0103
+	0021
+	0203
+	1 move left*
+	switch 2
+	*2232
+	2103
+	2221
+	2203
+	0 moves left
+	Lost*
