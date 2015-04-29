@@ -29,6 +29,7 @@ Sample interaction:
 ---------------------
 (responses from the program are in italics)
 
+```
 new 4
 init
 0 0 4
@@ -47,29 +48,30 @@ init
 4021
 0203
 game 4
-4 moves left
+*4 moves left*
 switch 0
-0032
+*0032
 0103
 4021
 0203
-3 moves left
+3 moves left*
 switch 4
-4432
+*4432
 4103
 4021
 0203
-2 moves left
+2 moves left*
 switch 0
-0032
+*0032
 0103
 0021
 0203
-1 move left
+1 move left*
 switch 2
-2232
+*2232
 2103
 2221
 2203
 0 moves left
-Lost
+Lost*
+```
