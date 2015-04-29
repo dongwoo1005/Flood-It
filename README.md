@@ -12,9 +12,9 @@ Requirements:
 - Mac: install [XQuartz](http://xquartz.macosforge.org/landing/) on a newer Mac OS.
 
 ###Compiling:
-- g++ main.cc -lX11
+- g++ example.cc -lX11 (Makefile is written in this way)
 <br> or if above doesn’t work on Mac, you need to explicitly tell g++ where X11 is located:
-- g++ main.cc -lX11 -L/usr/X11/lib -I/usr/X11/include
+- g++ example.cc -lX11 -L/usr/X11/lib -I/usr/X11/include
 
 Available Commands:
 --------------------
