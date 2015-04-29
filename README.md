@@ -28,8 +28,6 @@ Command line option:
 Sample interaction: 
 ---------------------
 (responses from the program are in italics)
-
-	
     new 4
 	init
 	0 0 4
@@ -74,4 +72,3 @@ Sample interaction:
 	2203
 	0 moves left
 	Lost*
-	</pre>
