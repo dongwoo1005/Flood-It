@@ -1,5 +1,9 @@
 Flood-It
 ================
+Screenshots:
+----------------
+![alt text](http://dongwoo1005.github.io./image/floodit.JPG "FloodIt")
+
 Requirements:
 ----------------
 ###X11
