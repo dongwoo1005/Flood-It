@@ -31,7 +31,7 @@ Command line option:
 
 Sample interaction: 
 ---------------------
-(responses from the program are in italics)
+(Responses from the program are in *italics*)
  <pre>
     new 4
 	init
