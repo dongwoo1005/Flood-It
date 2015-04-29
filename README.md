@@ -28,6 +28,7 @@ Command line option:
 Sample interaction: 
 ---------------------
 (responses from the program are in italics)
+ <pre>
     new 4
 	init
 	0 0 4
@@ -46,29 +47,30 @@ Sample interaction:
 	4021
 	0203
 	game 4
-	<pre><em>4 moves left</em></pre>
+	<em>4 moves left</em>
 	switch 0
-	0032
-	0103
-	4021
-	0203
-	3 moves left*
+	<em>0032</em>
+	<em>0103</em>
+	<em>4021</em>
+	<em>0203</em>
+	<em>3 moves left</em>
 	switch 4
-	*4432
-	4103
-	4021
-	0203
-	2 moves left*
+	<em>4432</em>
+	<em>4103</em>
+	<em>4021</em>
+	<em>0203</em>
+	<em>2 moves left</em>
 	switch 0
-	*0032
-	0103
-	0021
-	0203
-	1 move left*
+	<em>0032</em>
+	<em>0103</em>
+	<em>0021</em>
+	<em>0203</em>
+	<em>1 move left</em>
 	switch 2
-	*2232
-	2103
-	2221
-	2203
+	<em>2232</em>
+	<em>2103</em>
+	<em>2221</em>
+	<em>2203</em>
 	0 moves left
-	Lost*
+	<em>Lost</em>
+</pre>
