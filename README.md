@@ -8,8 +8,8 @@ Requirements:
 ----------------
 ###X11
 - Linux: be sure to pass –Y option if using an ssh connection.
-- Windows with Putty: make sure you run an X server such as XMing
-- Mac: install XQuartz on a newer Mac OS.
+- Windows with Putty: make sure you run an X server such as [XMing](http://sourceforge.net/projects/xming/)
+- Mac: install [XQuartz](http://xquartz.macosforge.org/landing/) on a newer Mac OS.
 
 ###Compiling:
 - g++ main.cc -lX11
